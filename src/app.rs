@@ -18,7 +18,8 @@ impl App {
     }
 
     pub fn run(&mut self) {
-        let bm: Bookmarks = reader::read_file(self.cf.input_file.clone()).expect("failed to read file");
+        let input = fs::read_to_string(self.cf.input_file.clone()).expect("failed to read file");
+        let bm: Bookmarks = reader::read_file(input).expect("failed to read file");
         dbg!(&bm);
         self.output = parser::parse_file(&bm);
         // write file to outfile in HTML
