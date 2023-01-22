@@ -1,0 +1,559 @@
+{
+   "checksum": "0d47d9357663eee4a3f23524a2cacd34",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13306457048366634",
+            "date_last_used": "13315859709031539",
+            "guid": "b1b935a5-ec65-4acd-8daf-d12ac71c74f7",
+            "id": "6",
+            "name": "WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13313517593905626",
+            "date_last_used": "0",
+            "guid": "01cddb57-369c-4bd5-94c5-6f108861f9e3",
+            "id": "67",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Snapchat",
+            "type": "url",
+            "url": "https://web.snapchat.com/"
+         }, {
+            "date_added": "13311332544999124",
+            "date_last_used": "13311334959014783",
+            "guid": "aa5caeb8-ceb7-4c77-9fed-2e4b7ae36684",
+            "id": "56",
+            "name": "Twitter",
+            "type": "url",
+            "url": "https://twitter.com/"
+         }, {
+            "children": [ {
+               "date_added": "13309607199432326",
+               "date_last_used": "0",
+               "guid": "3f9fb79b-4369-45a3-9761-b69cf7684c58",
+               "id": "13",
+               "name": "Monkeytype",
+               "type": "url",
+               "url": "https://monkeytype.com/"
+            }, {
+               "date_added": "13309607190258222",
+               "date_last_used": "13313177513202430",
+               "guid": "f837cb51-db31-4726-9423-f0cc47026adf",
+               "id": "12",
+               "name": "Tippen üben",
+               "type": "url",
+               "url": "https://www.keybr.com/de/index"
+            }, {
+               "date_added": "13309619791844473",
+               "date_last_used": "13310162193353658",
+               "guid": "a326fc2a-cab4-4375-9243-018b1c54cd54",
+               "id": "18",
+               "name": "Ngram Type",
+               "type": "url",
+               "url": "https://ranelpadon.github.io/ngram-type/"
+            }, {
+               "date_added": "13309631121904343",
+               "date_last_used": "0",
+               "guid": "4c7b7e51-ac6c-4ef7-aa9e-32943c0873ac",
+               "id": "20",
+               "name": "TypeRacer - Play Typing Games and Race Friends",
+               "type": "url",
+               "url": "https://play.typeracer.com/"
+            }, {
+               "date_added": "13309795352132351",
+               "date_last_used": "13314405591105747",
+               "guid": "ac03f576-11e5-4440-a7ba-00de7246b930",
+               "id": "24",
+               "name": "Typing Practice for Programmers | typing.io",
+               "type": "url",
+               "url": "https://typing.io/"
+            } ],
+            "date_added": "13309607220905294",
+            "date_last_used": "0",
+            "date_modified": "13309863091896823",
+            "guid": "009d45be-69f7-41d6-8b7e-3e087e816e44",
+            "id": "14",
+            "name": "Typing",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13307059770809029",
+               "date_last_used": "13318555218082628",
+               "guid": "667d087b-5bc7-468d-af07-a99e6b7008ee",
+               "id": "10",
+               "name": "config_manager/xdg_config/nvim/after/plugin at master · tjdevries/config_manager",
+               "type": "url",
+               "url": "https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/after/plugin"
+            }, {
+               "date_added": "13313858706917212",
+               "date_last_used": "0",
+               "guid": "f2ecf15d-73c4-4f12-9e2b-446befbe3186",
+               "id": "71",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "nvim-telescope/telescope.nvim: Find, Filter, Preview, Pick. All lua, all the time.",
+               "type": "url",
+               "url": "https://github.com/nvim-telescope/telescope.nvim"
+            }, {
+               "date_added": "13314405728280771",
+               "date_last_used": "13316196028883541",
+               "guid": "87f39041-2bda-412b-8040-3ec7e03910b8",
+               "id": "74",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "projekt0n/github-nvim-theme: Github's Neovim themes",
+               "type": "url",
+               "url": "https://github.com/projekt0n/github-nvim-theme"
+            }, {
+               "date_added": "13314986927077714",
+               "date_last_used": "13316169880488752",
+               "guid": "69be239c-4687-42a2-87a9-aeb1be90b695",
+               "id": "78",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "bluz71/vim-moonfly-colors: A dark charcoal theme for classic Vim & modern Neovim",
+               "type": "url",
+               "url": "https://github.com/bluz71/vim-moonfly-colors"
+            } ],
+            "date_added": "13309607349352116",
+            "date_last_used": "0",
+            "date_modified": "13315093359614399",
+            "guid": "cd285b3d-3afa-4c4d-9455-01adf5363b28",
+            "id": "15",
+            "name": "Configs",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13309610418866481",
+               "date_last_used": "0",
+               "guid": "3c3685ea-a51e-47ba-bdf7-ce7ff3238cb4",
+               "id": "16",
+               "name": "Moodle Login",
+               "type": "url",
+               "url": "https://moodle.dhbw-mannheim.de/login/index.php"
+            }, {
+               "children": [ {
+                  "date_added": "13309863091896823",
+                  "date_last_used": "0",
+                  "guid": "0e424789-3a7f-4124-b8d4-9b1b9bacfd42",
+                  "id": "27",
+                  "name": "Open Source Intelligence: Die besten OSINT Tools - computerwoche.de",
+                  "type": "url",
+                  "url": "https://www.computerwoche.de/a/wie-viel-wissen-hacker-ueber-sie,3548786"
+               }, {
+                  "date_added": "13309863911232036",
+                  "date_last_used": "13312994906824661",
+                  "guid": "fbf3f176-ddcb-4041-9cfc-c33dcb1836be",
+                  "id": "29",
+                  "name": "What is Social Engineering? | Techniques & Prevention",
+                  "type": "url",
+                  "url": "https://www.itgovernance.co.uk/social-engineering-attacks"
+               }, {
+                  "date_added": "13313429915206118",
+                  "date_last_used": "0",
+                  "guid": "c84813db-be2e-44f1-965e-8ffa14d7a025",
+                  "id": "66",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Uber hack linked to hardcoded secrets spotted in PowerShell script | The Daily Swig",
+                  "type": "url",
+                  "url": "https://portswigger.net/daily-swig/uber-hack-linked-to-hardcoded-secrets-spotted-in-powershell-script"
+               } ],
+               "date_added": "13309863121437907",
+               "date_last_used": "0",
+               "date_modified": "13313517593905626",
+               "guid": "5010373b-106c-4431-a6ca-f8ad530b9c01",
+               "id": "28",
+               "name": "social engineering ha",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13309968742303919",
+                  "date_last_used": "13317223856642220",
+                  "guid": "8c4e0659-0653-446a-b5d0-36c42ffc55f3",
+                  "id": "34",
+                  "name": "App Suite.",
+                  "type": "url",
+                  "url": "https://ox.dhbw-mannheim.de/appsuite/ui#!!&app=io.ox/mail"
+               } ],
+               "date_added": "13309968766126483",
+               "date_last_used": "0",
+               "date_modified": "13310143040330258",
+               "guid": "0bf024c0-c610-46b4-a06a-761b723bdf1b",
+               "id": "35",
+               "name": "hiwi",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13310143040330258",
+                  "date_last_used": "0",
+                  "guid": "13ac70bc-0864-4ed0-a890-17e9b9db6bae",
+                  "id": "37",
+                  "name": "UML Tool: UML Diagramme online erstellen | Lucidchart",
+                  "type": "url",
+                  "url": "https://www.lucidchart.com/pages/de/beispiele/uml-tool#video"
+               } ],
+               "date_added": "13310143060179703",
+               "date_last_used": "0",
+               "date_modified": "13310221471044323",
+               "guid": "86cb73bf-2d94-4d47-99a6-22a2768c04b7",
+               "id": "38",
+               "name": "software engineering",
+               "type": "folder"
+            }, {
+               "date_added": "13310232390559817",
+               "date_last_used": "13314987199445105",
+               "guid": "50d41313-df5c-4835-9c9d-0bcec6e1da11",
+               "id": "41",
+               "name": "altklausuren",
+               "type": "url",
+               "url": "https://cloud.dlr.party/index.php/apps/files/?dir=/ShareSpace&view=-ShareSpace"
+            }, {
+               "date_added": "13310232446716259",
+               "date_last_used": "13314987161257473",
+               "guid": "193b2af8-8a59-4bc4-8287-3435c85153e6",
+               "id": "42",
+               "name": "altklausuren_gd",
+               "type": "url",
+               "url": "https://drive.google.com/drive/folders/1ruanGTyO7tiTueZVV2gA-xWqF3e7q9_d"
+            }, {
+               "children": [ {
+                  "date_added": "13310419474553413",
+                  "date_last_used": "0",
+                  "guid": "04dd076d-9ffd-4539-8e7f-60de09fa8ed6",
+                  "id": "44",
+                  "name": "GitHub - studio-fluffy/angewandte_mathematik: Vorlesungsunterlagen angewandte Mathematik an der DHBW",
+                  "type": "url",
+                  "url": "https://github.com/studio-fluffy/angewandte_mathematik"
+               }, {
+                  "date_added": "13310662925431490",
+                  "date_last_used": "0",
+                  "guid": "9c551668-dd51-4e05-ae12-23078f70857d",
+                  "id": "48",
+                  "name": "(17) Linear transformations and matrices | Chapter 3, Essence of linear algebra - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=kYB8IZa5AuE"
+               }, {
+                  "date_added": "13310662967803321",
+                  "date_last_used": "0",
+                  "guid": "b5096628-fc1d-4c79-a8cc-ef72d6418ca7",
+                  "id": "49",
+                  "name": "What are affine transformations? - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=E3Phj6J287o"
+               }, {
+                  "date_added": "13313076156668134",
+                  "date_last_used": "0",
+                  "guid": "abfadf27-537c-4dd7-b717-8813b607bf1e",
+                  "id": "63",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Neural networks and deep learning",
+                  "type": "url",
+                  "url": "http://neuralnetworksanddeeplearning.com/"
+               }, {
+                  "date_added": "13315678123465790",
+                  "date_last_used": "13315689925738141",
+                  "guid": "85840b26-8ef3-4013-9fa5-24e6827bf887",
+                  "id": "82",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "What is backpropagation really doing? | Chapter 3, Deep learning - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=Ilg3gGewQ5U"
+               }, {
+                  "date_added": "13315678171912329",
+                  "date_last_used": "13315690821707579",
+                  "guid": "1a9d765e-0977-43c7-8f3c-d84ff7bb25d6",
+                  "id": "83",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "What is Automatic Differentiation? - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=wG_nF1awSSY"
+               }, {
+                  "date_added": "13317676571355345",
+                  "date_last_used": "0",
+                  "guid": "f9487bed-0a2e-4a17-9353-5c6cfe46539e",
+                  "id": "85",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "bubbletea/examples at master · charmbracelet/bubbletea",
+                  "type": "url",
+                  "url": "https://github.com/charmbracelet/bubbletea/tree/master/examples"
+               } ],
+               "date_added": "13310419494284606",
+               "date_last_used": "0",
+               "date_modified": "13318384083459917",
+               "guid": "93fed5b7-480c-4d7e-8e58-2afe9f0e0ef7",
+               "id": "45",
+               "name": "mathe",
+               "type": "folder"
+            }, {
+               "date_added": "13310425239885680",
+               "date_last_used": "13315564853002630",
+               "guid": "32662bf1-4b56-42aa-8c98-95754893829e",
+               "id": "46",
+               "name": "DHBW Mannheim: Bibliothek",
+               "type": "url",
+               "url": "https://www.mannheim.dhbw.de/service/bibliothek"
+            }, {
+               "date_added": "13314555398285282",
+               "date_last_used": "0",
+               "guid": "9e8b0099-e013-4300-b51d-0dcfad64badc",
+               "id": "76",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Duale Hochschule Baden-Württemberg",
+               "type": "url",
+               "url": "https://dualis.dhbw.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=EXTERNALPAGES&ARGUMENTS=-N000000000000001,-N000336,-Aindex_antrag_bachelor%2Ehtm"
+            }, {
+               "date_added": "13315093359614399",
+               "date_last_used": "0",
+               "guid": "b43a797e-65d2-4a40-b051-3a30ed734934",
+               "id": "80",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "LanguageTool - Online Grammar, Style & Spell Checker",
+               "type": "url",
+               "url": "https://languagetool.org/"
+            } ],
+            "date_added": "13309610442549480",
+            "date_last_used": "0",
+            "date_modified": "13315678123465790",
+            "guid": "ed0127e2-f06a-423e-87fe-814b97de8011",
+            "id": "17",
+            "name": "Uni",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13309790597696698",
+               "date_last_used": "13317661417612813",
+               "guid": "be68d7f3-af39-4ddc-8085-3260d752eee1",
+               "id": "22",
+               "name": "bubbletea",
+               "type": "url",
+               "url": "https://github.com/charmbracelet/bubbletea"
+            }, {
+               "date_added": "13309867609799212",
+               "date_last_used": "0",
+               "guid": "d1613cf4-9c1c-4ca4-8a5b-f86dd32136be",
+               "id": "30",
+               "name": "golang interface",
+               "type": "url",
+               "url": "https://golangbot.com/interfaces-part-1/"
+            }, {
+               "date_added": "13309907634555706",
+               "date_last_used": "13313361854351572",
+               "guid": "5ccddba6-49d3-4613-9cad-62f1522efb57",
+               "id": "31",
+               "name": "bubbletea fancy list",
+               "type": "url",
+               "url": "https://github.com/charmbracelet/bubbletea/blob/master/examples/list-fancy/main.go"
+            }, {
+               "date_added": "13309907645804602",
+               "date_last_used": "13317661410428009",
+               "guid": "08fc13fc-9372-4d2a-be18-76459ce8f537",
+               "id": "32",
+               "name": "bubbletea fancy list delegate",
+               "type": "url",
+               "url": "https://github.com/charmbracelet/bubbletea/blob/b9bd01b79a8b73065396f286f207c919485cb317/examples/list-fancy/delegate.go#L53"
+            }, {
+               "date_added": "13310221471044323",
+               "date_last_used": "0",
+               "guid": "22aaf175-bf54-4daa-a305-48bc2cf7017c",
+               "id": "40",
+               "name": "lipgloss",
+               "type": "url",
+               "url": "https://github.com/charmbracelet/lipgloss"
+            }, {
+               "date_added": "13311430539136868",
+               "date_last_used": "0",
+               "guid": "919bda3a-fbdf-491a-9cf8-c6c1abbcad7a",
+               "id": "59",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "inspo",
+               "type": "url",
+               "url": "https://github.com/charmbracelet/inspo"
+            }, {
+               "date_added": "13312028689882190",
+               "date_last_used": "13312028735386776",
+               "guid": "5ad46ded-f295-4421-8f2c-2a49e575e047",
+               "id": "61",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "gum",
+               "type": "url",
+               "url": "https://github.com/charmbracelet/gum"
+            }, {
+               "date_added": "13318384083459917",
+               "date_last_used": "0",
+               "guid": "358dbf02-bea2-44a8-a5ee-3a2d6673ba96",
+               "id": "87",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "CLI RSS Feed · Discussion #8 · charmbracelet/inspo",
+               "type": "url",
+               "url": "https://github.com/charmbracelet/inspo/discussions/8"
+            } ],
+            "date_added": "13309790616649802",
+            "date_last_used": "0",
+            "date_modified": "13318619468964351",
+            "guid": "5399dfe9-5746-468c-8895-a04050837875",
+            "id": "23",
+            "name": "charm stuff",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13310752588086727",
+               "date_last_used": "0",
+               "guid": "eafabd26-b82f-42b9-84f2-f17cdb87177e",
+               "id": "51",
+               "name": "Docs",
+               "type": "url",
+               "url": "https://workspace.google.com/intl/en/products/docs/"
+            }, {
+               "date_added": "13310752617143244",
+               "date_last_used": "13310844522198241",
+               "guid": "bcde3175-fe75-4161-88c0-98b33e3bbdd6",
+               "id": "53",
+               "name": "Sheets",
+               "type": "url",
+               "url": "https://www.google.com/sheets/about/"
+            }, {
+               "date_added": "13310752652519931",
+               "date_last_used": "0",
+               "guid": "893074d4-57a7-47c4-b5a8-57cc5965f1fc",
+               "id": "54",
+               "name": "Slides",
+               "type": "url",
+               "url": "https://workspace.google.com/intl/en/products/slides/"
+            } ],
+            "date_added": "13310752610308503",
+            "date_last_used": "0",
+            "date_modified": "13311332544999124",
+            "guid": "c01a6c06-1d68-41a0-9b0d-f3b7abbb5597",
+            "id": "52",
+            "name": "Google",
+            "type": "folder"
+         }, {
+            "date_added": "13311343537627140",
+            "date_last_used": "13313799762771607",
+            "guid": "06923726-1b7c-4d8b-bc5a-624bb58ce1b6",
+            "id": "57",
+            "name": "Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews",
+            "type": "url",
+            "url": "https://frontendmasters.com/courses/algorithms/"
+         }, {
+            "date_added": "13313799936792231",
+            "date_last_used": "13313852306456932",
+            "guid": "8dcc9e62-1658-40f6-b3a4-8d3f8dc92cbb",
+            "id": "69",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "JS algos",
+            "type": "url",
+            "url": "https://frontendmasters.com/courses/practical-algorithms/memoization-with-closure-solution/"
+         }, {
+            "date_added": "13314398930406904",
+            "date_last_used": "13316622767043892",
+            "guid": "f5450f2a-e2fe-4fa4-9b91-bef708f6dbb3",
+            "id": "73",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Advent of Code 2022",
+            "type": "url",
+            "url": "https://adventofcode.com/"
+         }, {
+            "date_added": "13318619468964351",
+            "date_last_used": "0",
+            "guid": "6045fa31-b0ee-4640-a26b-b6fecba532d3",
+            "id": "89",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Compiler Explorer",
+            "type": "url",
+            "url": "https://godbolt.org/"
+         }, {
+            "children": [ {
+               "date_added": "13318628805480832",
+               "date_last_used": "0",
+               "guid": "b77c0fdc-2b06-47f9-8fc3-16f6a6e12714",
+               "id": "90",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Writing an Interpreter From Scratch | Toptal",
+               "type": "url",
+               "url": "https://www.toptal.com/scala/writing-an-interpreter#:~:text=To%20create%20an%20interpreter%20first,interprets%20it%20in%20some%20way."
+            } ],
+            "date_added": "13318628824998723",
+            "date_last_used": "0",
+            "date_modified": "13318636654130198",
+            "guid": "106cafb0-b40a-4718-bcd1-e151daeb69f8",
+            "id": "91",
+            "name": "compiler",
+            "type": "folder"
+         }, {
+            "date_added": "13318636654130198",
+            "date_last_used": "0",
+            "guid": "3529cafb-c6a8-45d3-9efe-27ed4aa235f5",
+            "id": "92",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "JSON to Rust Serde",
+            "type": "url",
+            "url": "https://transform.tools/json-to-rust-serde"
+         } ],
+         "date_added": "13306167973034197",
+         "date_last_used": "0",
+         "date_modified": "13318636658851964",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13306167973034198",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13306167973034199",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
